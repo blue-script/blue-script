@@ -2,11 +2,11 @@
 Я начинающий веб-разработчик.
 
 ### Мой стек технологий
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)  
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![Styled-Components]([https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap](https://img.shields.io/badge/-styledcomponents-333?style=for-the-badge&logo=styledcomponents))
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub) 
+![Styled-Components](https://img.shields.io/badge/-styledcomponents-333?style=for-the-badge&logo=styledcomponents)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 
 ### Контакты
