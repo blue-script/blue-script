@@ -4,11 +4,12 @@
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Styled-Components](https://img.shields.io/badge/-styledcomponents-333?style=for-the-badge&logo=styledcomponents)
+![Storybook](https://img.shields.io/badge/-Storybook-333?style=for-the-badge&logo=Storybook)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
-![Storybook](https://img.shields.io/badge/-Storybook-333?style=for-the-badge&logo=Storybook)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/go_phase) [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/demyanov_an) [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/blue-script) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alexandrdem/)
