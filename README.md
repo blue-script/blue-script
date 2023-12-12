@@ -9,6 +9,7 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-333?style=for-the-badge&logo=Storybook)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-333?style=for-the-badge&logo=MaterialUI)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 
 ### Контакты
