@@ -11,6 +11,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333?style=for-the-badge&logo=MUI)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
+![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/go_phase) [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/demyanov_an) [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/blue-script) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alexandrdem/)
