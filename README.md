@@ -1,7 +1,7 @@
-## Hello, my name is Alexander 👋
-I'm a Frontend developer.
+## ℍ𝕖𝕝𝕝𝕠, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 𝔸𝕝𝕖𝕩𝕒𝕟𝕕𝕖𝕣 👋
+𝕀'𝕞 𝕒 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣.
 
-### My technology stack
+### 𝕄𝕪 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕤𝕥𝕒𝕔𝕜
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
@@ -13,8 +13,11 @@ I'm a Frontend developer.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
 
-### Contacts
+### ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/go_phase) [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/demyanov_an) [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/blue-script) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/demianov-an/)
+
+### 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤
+[![codewars](https://www.codewars.com/users/demianov/badges/large)](https://www.codewars.com/users/demianov)  
 
 
 
