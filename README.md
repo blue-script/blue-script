@@ -23,6 +23,7 @@
 ![LeetCode](https://leetcode-badge-sage.vercel.app/badge/blue-script?theme=dark&bgColor=282828)
 #### GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-script&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-script&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 
 
