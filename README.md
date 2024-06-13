@@ -14,7 +14,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
 
 ### ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/go_phase) [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/demyanov_an) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/demianov-an/)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/go_phase) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/demianov-an/)
 
 ### 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤
 #### Codewars
