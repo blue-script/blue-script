@@ -2,9 +2,10 @@
 ### 𝕀'𝕞 𝕒 𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣.
 
 ### 𝕄𝕪 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕤𝕥𝕒𝕔𝕜
+![HTML](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-333?style=for-the-badge&logo=redux)
 ![SASS](https://img.shields.io/badge/-sass-333?style=for-the-badge&logo=sass)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-333?style=for-the-badge&logo=Tailwindcss)
